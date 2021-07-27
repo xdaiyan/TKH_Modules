@@ -1,0 +1,82 @@
+﻿1. In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+
+A computer is constantly scanning the keyboard (your input) and waiting for a response from the user. When the user presses a button, the keyboard sends an electrical signal to the processor through either wire or wireless. The CPU then takes this signal, and translates it to generally ASCII codes then displayed to the monitor.
+
+
+
+
+2. In your own words, how do computers use input and output to create experiences? (250 words max)
+
+
+There are several types of inputs. These range from keyboards, which is the most common input, your mouse and it’s trackball if it has one, scanners, touch screens and even voice input for AI’s such as Cortana and Siri. The computer processes the signal received by one of these input devices, and then displays the output usually either on a screen, or some other type of display or audio output.
+
+
+
+
+3. Explain why software products are essential “infinitely reproducible nothings.” (150 words max)
+
+
+Companies such as Dell and Gateway created their computers with a preinstalled version of Windows to customers. However, customers that spent tons of money on these machines usually had to deal with pre-installed anti-virus softwares too that created a ton of pop-ups such as McAfee and the majority of the time they didn’t know how to uninstall or remove the anti-virus software. Thus, this is why software products are basically infinitely reproducible nothings because companies are selling software, which customers can see through their machines. However, if the customer can not change bits of the software to how they like it due to lack of knowledge, they really haven’t gained anything.
+
+
+
+
+4. Explain in your own words how code becomes software. (150 words max)
+
+
+Code is basically the building blocks of software. Software is created by assembling multiple lines of code, processing these code blocks in a CPU, then converting it to a software.
+
+
+
+
+5. Explain “algorithms” in your own words. (150 words max)
+
+
+All devices use algorithms to sort and solve their code to run software. Basically, an algorithm is a series of steps used by the computer to complete a specific task. The task can be something simple such as opening a new tab or something complicated.
+
+
+
+
+6. Explain the DRY principle. (100 words max)
+
+
+DRY is the acronym for the phrase “Don’t Repeat Yourself”. In programming, this is a very fundamental concept. As programs get more complicated and lengthy, it’s very important for the developer to keep his program as short and clean as possible. Repeating code blocks in your program creates unnecessary length in the code itself and takes more time for the processor to process.
+
+
+
+
+7. In your own words, what is object-oriented programming? (100 words max)
+
+
+In object-oriented programming, or OOP, usually the coding language has a concept of classes and objects. The goal is to design programs and software that define an “object” by its own properties and using methods and classes, manipulate it or have it interact with other objects.
+
+
+
+
+8. In your own words explain data and how it relates to code. (100 words max)
+
+
+When you write a code, the computer does not actually process that code by reading it and then performing the action. Instead, your code is converted to machine language which is a binary digital form, and then it is stored within the memory. Once it is stored, this piece of memory is called data. Data can be moved around or processed depending on how the user wants to use it.
+
+
+
+
+9. What is a framework? (150 words max)
+
+
+When data is processed, usually the user wants to do something with that data or software. This is where frameworks come in handy. Frameworks help develop web-services and visual software for consumers to see and use. It takes all the information provided in the computer’s data drives and then creates a visual interpretation of it.
+
+
+10. What is debugging? (150 words max)
+
+
+When a user writes code, usually sometimes there are errors within that code. Sometimes the error may be simple syntax, or it can be something complicated such as a block of code not running correctly. When the programmer debugs, they usually run the debugging software in his IDE or environment to check for these errors. Debugging helps catch these errors and bugs so the program runs smoothly for the users.
+
+
+
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+
+
+I want to learn to code because I want to eventually create my own app. Learning how to code will give me the fundamental skills to create programs and run these programs and objects how I see fit for my specific software. Coding also is a very intriguing topic for me. Solving problems and debugging issues may be time consuming, but from my experience as a beginner programmer, I find these issues and problems very fun to solve, although sometimes it can be tedious and rage inducing. Learning to code and use software will give me an edge in the developing online and computer industry.
