@@ -1,0 +1,24 @@
+1) Explain in your own words what is Python?
+
+Python is a dynamic, object-oriented programming language used by many developers, 
+mostly in fields such as app development and more. Python is highly used because of
+it's simplicity in syntax. Python is also highly used because of it's extensive
+external libraries, which have many classes already premade to make your coding
+experience easier and more smooth.
+
+2) Explain Data Python Data Types.
+
+Data types in python hold set values that range from being integers, booleans, string 
+values to arrays and even lists! In Python you can manipulate data types to make them 
+larger or smaller, or make them do certain things when certain blocks of code are
+run.
+
+3) Explain in your own words What is a function?
+
+A function takes a certain number or types of inputs to output a desired value or 
+outcome. 
+
+4) Explain the Python print statement.
+
+The python print statement outputs whatever value is put into that statement to the
+user's screen. 
