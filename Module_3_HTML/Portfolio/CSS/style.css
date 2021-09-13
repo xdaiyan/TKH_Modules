@@ -111,6 +111,13 @@ body {
 	margin-top: 20px;
 }
 
+.education li i {
+	display: inline-block;
+	width: 30px;
+	font-size: 18px;
+	color: #03a9f4
+}
+
 .education li h5 {
 	color: #03a9f4;
 	font-weight: 300;
@@ -181,6 +188,19 @@ body {
 	height: 7px;
 	border-radius: 10px;
 	background: #03a9f4;
+	-webkit-transition: 3s all;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-name: animationProgress;
+}
+
+.percentual {
+	animation-name: animationProgress;
+}
+
+@keyframes animationProgress {
+	from{
+		width: 0;
+	}
 }
 
 .title {
